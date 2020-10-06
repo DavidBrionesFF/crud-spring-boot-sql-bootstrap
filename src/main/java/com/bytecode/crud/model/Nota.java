@@ -1,4 +1,4 @@
-package com.bytecode.crud.configuration.model;
+package com.bytecode.crud.model;
 
 import javax.persistence.*;
 import java.io.Serializable;

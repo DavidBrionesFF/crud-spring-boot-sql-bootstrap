@@ -1,6 +1,6 @@
-package com.bytecode.crud.configuration.repository;
+package com.bytecode.crud.repository;
 
-import com.bytecode.crud.configuration.model.Nota;
+import com.bytecode.crud.model.Nota;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

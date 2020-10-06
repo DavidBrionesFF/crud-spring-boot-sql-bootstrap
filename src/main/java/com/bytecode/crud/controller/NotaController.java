@@ -1,7 +1,7 @@
-package com.bytecode.crud.configuration.controller;
+package com.bytecode.crud.controller;
 
-import com.bytecode.crud.configuration.model.Nota;
-import com.bytecode.crud.configuration.repository.NotaRepository;
+import com.bytecode.crud.model.Nota;
+import com.bytecode.crud.repository.NotaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
